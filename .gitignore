@@ -10,6 +10,7 @@ backups/
 runs/
 staging/
 scratch/
+release/
 *.log
 
 # External converter binary. See README/NOTICE for install instructions.
@@ -22,4 +23,3 @@ Tools/texconv.exe
 *.suo
 Thumbs.db
 Desktop.ini
-
