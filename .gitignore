@@ -1,0 +1,25 @@
+# Build outputs
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+
+# Runtime data from real installs
+backups/
+runs/
+staging/
+scratch/
+*.log
+
+# External converter binary. See README/NOTICE for install instructions.
+Tools/texconv.exe
+
+# Local editor / OS noise
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+
