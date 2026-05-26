@@ -2,6 +2,8 @@
 
 A small Windows GUI tool for reducing Kerbal Space Program texture memory pressure by downscaling selected mod textures offline.
 
+Built end-to-end with GPT-5 Codex from a real KSP modded-install VRAM troubleshooting session.
+
 It was built for heavily modded KSP 1.12.x installs where VRAM is the limiting factor. KSP and Unity can keep a lot of textures resident, and visual mods such as Parallax, EVE/BoulderCo, Scatterer, ReStock, and part packs can push an 8 GB GPU right to the edge. This tool does not add dynamic streaming to KSP. It makes the textures smaller before KSP loads them.
 
 ## What It Does
